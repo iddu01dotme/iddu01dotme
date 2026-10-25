@@ -1,4 +1,9 @@
-## Hi there 👋
+## hello, i'm iddu01!
+(i also go by iddu01dotme)
+
+i'm a software dev from canada. i'm also the definition of "jack of all trades, master of none".<br>
+my website is [iddu01.me](https://iddu01.me), i highly recommend you check it out!<br>
+reach me on discord @iddu01<br>
 
 <!--
 **iddu01dotme/iddu01dotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
